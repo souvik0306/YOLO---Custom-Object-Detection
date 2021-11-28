@@ -1,10 +1,12 @@
 ##
 YOLO---Custom-Object-Detection
 
-For running Pedestrian_Detection.py we need a custom weights file, please download it from here- [Google Drive Link](https://drive.google.com/file/d/1HTlwv4sklFxbRjeLUSE6tyk11Id1mxCh/view?usp=sharing)
+For running [Pedestrian_Detection.py](https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Pedestrian_Detection.py) we need a custom weights file, please download it from here- [Google Drive Link](https://drive.google.com/file/d/1HTlwv4sklFxbRjeLUSE6tyk11Id1mxCh/view?usp=sharing)
 
-**ATTENTION - It is advisable to use OpenCV version 4.5.3 instead of the latest 4.5.4 due to a reported bug that inhibits the execution of the script.**
-
+```bash
+**ATTENTION - It is advisable to use OpenCV version 4.5.3 instead of the latest 4.5.4 
+                     due to a reported bug that inhibits the execution of the script.**
+```
 **Dataset Used for Training** - [University of Pennsylvania’s Penn-Fudan Database](https://www.cis.upenn.edu/~jshi/ped_html/) for Pedestrian Detection and Segmentation. 
 This is an image database containing images that are used for pedestrian detection. 
 The images are taken from scenes around campus and urban streets.
@@ -18,4 +20,5 @@ Use [Make Sense.ai](https://www.makesense.ai/) to manually label the images and 
 width and height represent the width and the height of the bounding box and they are normalized as well. 
 
 Final Results - 
+
 <img src="https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Result_2.jpg" width="750" height="600">
