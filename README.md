@@ -24,4 +24,4 @@ width and height represent the width and the height of the bounding box and they
 
 Final Results - 
 
-<img src="https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Result_2.jpg" width="750" height="600">
+<img src="https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Result_2.jpg" width="650" height="500">
