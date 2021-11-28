@@ -9,3 +9,5 @@ Each image contains at least one pedestrian in it and the heights of labelled pe
 There are 170 images with 345 labelled pedestrians,
 among which 96 images are taken from around the University of Pennsylvania, and the other 74 are taken from around Fudan University. The reason for choosing this particular 
 dataset was that it provides a decent number of good quality images for training a model.
+
+For running Pedestrian_Detection.py we need a custom weights file - [Google Drive Link](https://drive.google.com/file/d/1HTlwv4sklFxbRjeLUSE6tyk11Id1mxCh/view?usp=sharing)
