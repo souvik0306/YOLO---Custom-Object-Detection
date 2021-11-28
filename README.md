@@ -3,7 +3,7 @@ YOLO---Custom-Object-Detection
 
 For running Pedestrian_Detection.py we need a custom weights file, please download it from here- [Google Drive Link](https://drive.google.com/file/d/1HTlwv4sklFxbRjeLUSE6tyk11Id1mxCh/view?usp=sharing)
 
-*Dataset Used for Training* - University of Pennsylvania’s Penn-Fudan Database for Pedestrian Detection and Segmentation. 
+**Dataset Used for Training** - [University of Pennsylvania’s Penn-Fudan Database](https://www.cis.upenn.edu/~jshi/ped_html/) for Pedestrian Detection and Segmentation. 
 This is an image database containing images that are used for pedestrian detection. 
 The images are taken from scenes around campus and urban streets.
 
@@ -16,4 +16,4 @@ Use Make Sense.ai to manually label the images and export the final result in YO
 width and height represent the width and the height of the bounding box and they are normalized as well. 
 
 
-<img src="https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Result_2.jpg" width="550" height="350">
+<img src="https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Result_2.jpg" width="750" height="600">
