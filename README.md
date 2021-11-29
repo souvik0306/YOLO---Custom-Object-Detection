@@ -25,3 +25,6 @@ width and height represent the width and the height of the bounding box and they
 Final Results - 
 
 <img src="https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Result_2.jpg" width="650" height="500">
+
+*References*-
+1. PySource Object - [YouTube](https://www.youtube.com/watch?v=_FNfRtXEbr4&ab_channel=Pysource)
