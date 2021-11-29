@@ -1,7 +1,7 @@
 ##
 YOLO---Custom-Object-Detection
 
-For running [Pedestrian_Detection.py](https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Pedestrian_Detection.py) we need a custom weights file, please download it from here- [Google Drive Link](https://drive.google.com/file/d/1HTlwv4sklFxbRjeLUSE6tyk11Id1mxCh/view?usp=sharing). 
+For running [Pedestrian_Detection.py](https://github.com/souvik0306/YOLO---Custom-Object-Detection/blob/main/Pedestrian_Detection.py) we need a custom weights file, please download it from here - [Google Drive Link](https://drive.google.com/file/d/1HTlwv4sklFxbRjeLUSE6tyk11Id1mxCh/view?usp=sharing). 
 Once downloaded place them in the same folder as the rest of the file or change the path of the file accordingly.
 
 ```bash
